@@ -10,5 +10,5 @@
 
 //  Notes:
 // - Comments are ignored by the JavaScript engine.
-// - Use comments to explain *why* code exists, not what is obvious.
-// - Good commenting improves readability for future developers (including yourself!).
+// - Use comments to explain *why* code exists.
+// - Good commenting improves readability for future developers (including myself).
